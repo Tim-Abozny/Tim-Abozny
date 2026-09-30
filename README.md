@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arty 👋</h1>
+<h1 align="center">Hi, I'm Arti 👋</h1>
 
 <p align="center">
 Backend / Fullstack Developer
